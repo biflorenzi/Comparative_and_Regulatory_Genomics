@@ -1,6 +1,8 @@
 #     Comparative_and_Regulatory_Genomics
 
-Assignments for the Comparative and Regulatory Genomics course at KU Leuven. 4 ECTS
+Assignments for the Comparative and Regulatory Genomics course at KU Leuven. 4 ECTS. 
+Third Semester at KU Leuven, September 2020 - January 2021.
+Vote 15/20
 
 • Comparative genomics and phylogenomics (13h, including hands-on):
   - database searching and retrieval of sequence data
